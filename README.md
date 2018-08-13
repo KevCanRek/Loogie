@@ -1,2 +1,6 @@
 # Loogie
+• Log 1 soo this is my animated loogie for rainmeter although it skips like 1 frame, maybe its the update amount haven't tried that yet now that I think about it...
+• Log 2 Just checked, and All it did was change the playback speed, shouldve expected that :/
+• Log 3 going to reddit for help...
+
 animated rainmeter Loogie gif
